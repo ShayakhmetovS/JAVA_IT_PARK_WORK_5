@@ -6,7 +6,7 @@
 \pard\pardeftab720\sl360\sa320\partightenfactor0
 
 \f0\fs32 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 import java.util.Scanner;\
+import java.util.Scanner;\
 class HomeWork \{ public static void main(String[] args) \{ Scanner scanner = new Scanner(System.in);\
 \pard\pardeftab720\sl380\partightenfactor0
 
